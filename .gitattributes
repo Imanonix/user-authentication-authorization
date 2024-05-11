@@ -1,0 +1,7 @@
+# Specify TypeScript files
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+
+# Specify React files
+*.jsx linguist-language=JavaScript
+*.jsx linguist-language=JavaScript React
